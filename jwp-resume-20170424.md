@@ -138,7 +138,7 @@ _as NASA systems integrater:_
 * __Degree:__ Bachelor of Science in Biomedical Engineering, May 1992
   * __Degree Specialty:__ Mechanical Engineering
   * __Senior Design Project:__ A surgical stainless steel Kirschner wire driver
-    * Designed and constructed a prototype Kirschner wire driver. Based on the concepts of a mechanical pencil, the device was capable of advancing a single Kwire about 35 mm per trigger pull. Device was constructed entirely of stainless steel, suitable for autoclaving.
+    * Designed and constructed a prototype Kirschner wire driver. Based on the concepts of a mechanical pencil, the device was capable of advancing a single Kwire about 3.5 mm per trigger pull. Device was constructed entirely of stainless steel, suitable for autoclaving.
 ---
 # Publications and references available upon request
 
