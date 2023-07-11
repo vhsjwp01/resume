@@ -73,18 +73,18 @@ _as NASA systems integrater:_
 ## 2007 - 2008: L3 Communications, Houston, TX (via Johnson Space Center, NASA)
 ### Title: Principal Software Engineer
 * Network / Compute Architecture and Design
-** Responsible for the synthesis, procurement, deployment, and management of several different software development environments whose primary function was the development of vehicle training simulations.
-** Established a series of high speed localized networks, each capable of supporting 100+ users, and making heavy use of LDAP for authentication and authorization, with NFS and SMB for network accessible shared storage.
-** Using standard tools provided by modern Linux distributions, created a kickstart / Apache / TFTP / PXE based automated provisioning system for rapid desktop deployment.
-** Became familiar with RPM construction for the purpose of deploying inventory trackable system customizations.
-** Became familiar with CFEngine, a clientserver based configuration management framework. Created RPMs of CFEngine and implemented it as part of kickstart to handle post installation configuration.
-** Created an OpenVPN network to unify management of all supported labs via CFEngine.
-** Deployed VMWare ESX with HA and VMotion capability on a cluster of nodes using shared Adaptec SNAP NAS.
+  * Responsible for the synthesis, procurement, deployment, and management of several different software development environments whose primary function was the development of vehicle training simulations.
+  * Established a series of high speed localized networks, each capable of supporting 100+ users, and making heavy use of LDAP for authentication and authorization, with NFS and SMB for network accessible shared storage.
+  * Using standard tools provided by modern Linux distributions, created a kickstart / Apache / TFTP / PXE based automated provisioning system for rapid desktop deployment.
+  * Became familiar with RPM construction for the purpose of deploying inventory trackable system customizations.
+  * Became familiar with CFEngine, a clientserver based configuration management framework. Created RPMs of CFEngine and implemented it as part of kickstart to handle post installation configuration.
+  * Created an OpenVPN network to unify management of all supported labs via CFEngine.
+  * Deployed VMWare ESX with HA and VMotion capability on a cluster of nodes using shared Adaptec SNAP NAS.
 * Workflow Optimization
-** Provisioned a battery of virtual Windows XP workstations for remote access by lab users.
-** Implemented a MailMan based mail list server to track and archive system logs, backup logs, and CFEngine operations.
-** Charged with the design and provisioning of a software integration and test network whose primary task was to demo simulation software deliverables.
-** Provided mentoring to entry level system administrators.
+  * Provisioned a battery of virtual Windows XP workstations for remote access by lab users.
+  * Implemented a MailMan based mail list server to track and archive system logs, backup logs, and CFEngine operations.
+  * Charged with the design and provisioning of a software integration and test network whose primary task was to demo simulation software deliverables.
+  * Provided mentoring to entry level system administrators.
 
 ## 2005 - 2007: Motorola, Schaumburg, IL
 ### Title: Senior Staff System Design Engineer
