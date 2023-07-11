@@ -1,1 +1,1 @@
-jwp-resume-LATEST.md
+jwp-resume-LATEST.txt
