@@ -1,7 +1,7 @@
-<center>Jason W. Plummer</center>
+Jason W. Plummer
 3454 Howard Road, Murfreesboro, TN 37127 + home: 832.543.3281 + vhsjwp01@gmail.com
 
-The latest version of this document can be found here: http://plummerclan.me.ht
+The latest version of this document can be found here: http://
 
 Experience:
 
