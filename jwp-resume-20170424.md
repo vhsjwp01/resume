@@ -89,44 +89,44 @@ _as NASA systems integrater:_
 ## 2005 - 2007: Motorola, Schaumburg, IL
 ### Title: Senior Staff System Design Engineer
 * Product Development
-** System Design focus on unified crossplatform networkbased provisioning for both deployment and disaster recovery planning in the 2way radio public safety market products.
-** Disaster Recovery and Business Continuance champion in the ASTRO Systems Network Security / Information Assurance team. Served as primary architect for backup and disaster recovery features in the ASTRO product line.  Responsible for the introduction of NAS, IPSAN, and virtualization technology as part of the feature. Development of project management, feature maturity road map, and deployment strategy plans. Matrix style coordination of development efforts across 20+ box teams spanning North America and Europe. Creation of technical requirements at the system and box level. Created training material and conducted training for field support personnel with respect to OS / application provisioning and data archival features in the product line. Worked closely with business planners to create disaster recovery and business continuance purchasing options for customers.
+  * System Design focus on unified crossplatform networkbased provisioning for both deployment and disaster recovery planning in the 2way radio public safety market products.
+  * Disaster Recovery and Business Continuance champion in the ASTRO Systems Network Security / Information Assurance team. Served as primary architect for backup and disaster recovery features in the ASTRO product line.  Responsible for the introduction of NAS, IPSAN, and virtualization technology as part of the feature. Development of project management, feature maturity road map, and deployment strategy plans. Matrix style coordination of development efforts across 20+ box teams spanning North America and Europe. Creation of technical requirements at the system and box level. Created training material and conducted training for field support personnel with respect to OS / application provisioning and data archival features in the product line. Worked closely with business planners to create disaster recovery and business continuance purchasing options for customers.
 * Workflow Optimization
-** Responsible for the generation of internal standards to improve development efficiency and consistency between box teams.
-** Trained in Agile, CMMI, Six Sigma, and Digital SixSigma. Became a proponent and disciple of continuous improvement quality initiatives.
+  * Responsible for the generation of internal standards to improve development efficiency and consistency between box teams.
+  * Trained in Agile, CMMI, Six Sigma, and Digital SixSigma. Became a proponent and disciple of continuous improvement quality initiatives.
 
 ## 2000 - 2005: Motorola, Schaumburg, IL
 ### Title: IT Systems Engineer IV
 * Compute Architecture and Design
-** Installation and configuration of all UNIX servers (HPUX, Linux, Solaris) deployed in the Worldwide Solutions Data Division (WSDD), Commercial Government Industrial Solutions Sector (CGISS) IL02 Motorola environment.
-** Development and maintenance of customer driven compute architectures and environments. Handled all aspects of the compute environment including system specifications, new hardware evaluation, system patching, data mirroring, disaster recovery, performance tuning, diagnostics, monitoring, file system layout, security updates, system hardening, system enhancements, account creation, and NIS/LDAP data store architecture and management.
-** Extensive training in Rational ClearCase architecture.
+  * Installation and configuration of all UNIX servers (HPUX, Linux, Solaris) deployed in the Worldwide Solutions Data Division (WSDD), Commercial Government Industrial Solutions Sector (CGISS) IL02 Motorola environment.
+  * Development and maintenance of customer driven compute architectures and environments. Handled all aspects of the compute environment including system specifications, new hardware evaluation, system patching, data mirroring, disaster recovery, performance tuning, diagnostics, monitoring, file system layout, security updates, system hardening, system enhancements, account creation, and NIS/LDAP data store architecture and management.
+  * Extensive training in Rational ClearCase architecture.
 * Workflow Optimization
-** Managed the Schaumburg Engineering Computing UNIX Team (5 direct reports).
-** Trained in ITIL and Five Nines.
+  * Managed the Schaumburg Engineering Computing UNIX Team (5 direct reports).
+  * Trained in ITIL and Five Nines.
 
 ## 1996 - 2000: The University of Alabama at Birmingham, Biomedical Engineering Department
 ### Title: Information Systems Specialist | / Research Scientist
 * Compute Architecture and Design
-** Managed a computation lab consisting of several Linux, Solaris, and SGI workstations.
-** Performed finite element biomechanics research.
-** Taught introductory UNIX to incoming graduate students.
+  * Managed a computation lab consisting of several Linux, Solaris, and SGI workstations.
+  * Performed finite element biomechanics research.
+  * Taught introductory UNIX to incoming graduate students.
 * Workflow Optimization
-** Implemented the first web based recruitment site for the Department of Biomedical Engineering.
+  * Implemented the first web based recruitment site for the Department of Biomedical Engineering.
 
 # Education:
 ## 1993 - 1996: The University of Alabama at Birmingham
-## Degree: Master of Science in Biomedical Engineering, May 1996
-### Area of Research: Finite Element Biomechanics
-### Thesis Title: “Parametric Finite Element Studies of the Human Pelvis: The Influence of Load Magnitude and Duration on Pelvic Tolerance During Side Impact”
-* Constructed a clear acrylic phantom with tubes for Xray contrast agents. Used the phantom to scan a cadaveric hemipelvis specimen. Created software to generate 3D geometry from CT image source files.
-* Built a 3D mesh of a hemipelvis and modeled side impact crash impulse scenarios to determine the onset and type of fracture. This information was used to identify mitigating boundary conditions for the purpose of improving the crash survivability of all cars manufactured today.
+* Degree: Master of Science in Biomedical Engineering, May 1996
+* Area of Research: Finite Element Biomechanics
+  * Thesis Title: “Parametric Finite Element Studies of the Human Pelvis: The Influence of Load Magnitude and Duration on Pelvic Tolerance During Side Impact”
+    * Constructed a clear acrylic phantom with tubes for Xray contrast agents. Used the phantom to scan a cadaveric hemipelvis specimen. Created software to generate 3D geometry from CT image source files.
+    * Built a 3D mesh of a hemipelvis and modeled side impact crash impulse scenarios to determine the onset and type of fracture. This information was used to identify mitigating boundary conditions for the purpose of improving the crash survivability of all cars manufactured today.
 
 ## 1987 - 1992: Louisiana Tech University
-## Degree: Bachelor of Science in Biomedical Engineering, May 1992
-### Degree Specialty: Mechanical Engineering
-### Senior Design Project: A surgical stainless steel Kirschner wire driver
-* Designed and constructed a prototype Kirschner wire driver. Based on the concepts of a mechanical pencil, the device was capable of advancing a single Kwire about 35 mm per trigger pull. Device was constructed entirely of stainless steel, suitable for autoclaving.
+* Degree: Bachelor of Science in Biomedical Engineering, May 1992
+  * Degree Specialty: Mechanical Engineering
+  * Senior Design Project: A surgical stainless steel Kirschner wire driver
+    * Designed and constructed a prototype Kirschner wire driver. Based on the concepts of a mechanical pencil, the device was capable of advancing a single Kwire about 35 mm per trigger pull. Device was constructed entirely of stainless steel, suitable for autoclaving.
 
 # Program Management Knowledge Base:
 * Stake holder identification and expectation management
