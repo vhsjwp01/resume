@@ -1,12 +1,27 @@
 # Jason W. Plummer
 * 3454 Howard Road, Murfreesboro, TN 37127 + home: 832.543.3281 + vhsjwp01@gmail.com
-##### The latest version of this document can be found here: http://
+  * The latest version of this document can be found here: http://
+---
 
 # Experience:
 * Infrastructure Architecture and Design: 26 years
 * Compute Architecture and Design: 22 years
 * Workflow Optimization: 18 years
 * Product Development: 17 years
+
+* Program Management Knowledge Base:
+  * Stake holder identification and expectation management
+  * Requirements elicitation, refinement and dissemination
+  * Resource planning, effort estimation and risk mitigation
+  * Communication, communication, communication
+* Software Development Knowledge Base:
+  * Continuous integration and deployment (Jenkins/Hudson, Cruise Control, Bamboo)
+  * Source code repository management (gitolite/ssh, subversion/apache, ClearCase, Bitbucket)
+  * Containerization (Docker, Virtual Machines, LXE)
+* OS Knowledge Base:
+  * Unix / Linux - 21 years
+  * Mac OS X - 11 years
+---
 
 # Employment:
 ## 2014 - 2017: Ingram Content Group, LaVergne, TN
@@ -113,7 +128,7 @@ _as NASA systems integrater:_
   * Taught introductory UNIX to incoming graduate students.
 * Workflow Optimization
   * Implemented the first web based recruitment site for the Department of Biomedical Engineering.
-
+---
 # Education:
 ## 1993 - 1996: The University of Alabama at Birmingham
 * Degree: Master of Science in Biomedical Engineering, May 1996
@@ -127,21 +142,6 @@ _as NASA systems integrater:_
   * Degree Specialty: Mechanical Engineering
   * Senior Design Project: A surgical stainless steel Kirschner wire driver
     * Designed and constructed a prototype Kirschner wire driver. Based on the concepts of a mechanical pencil, the device was capable of advancing a single Kwire about 35 mm per trigger pull. Device was constructed entirely of stainless steel, suitable for autoclaving.
-
-# Program Management Knowledge Base:
-* Stake holder identification and expectation management
-* Requirements elicitation, refinement and dissemination
-* Resource planning, effort estimation and risk mitigation
-* Communication, communication, communication
-
-# Software Development Knowledge Base:
-* Continuous integration and deployment (Jenkins/Hudson, Cruise Control, Bamboo)
-* Source code repository management (gitolite/ssh, subversion/apache, ClearCase, Bitbucket)
-* Containerization (Docker, Virtual Machines, LXE)
-
-# OS Knowledge Base:
-* Unix / Linux - 21 years
-* Mac OS X - 11 years
-
-Publications and references available upon request
+---
+# Publications and references available upon request
 

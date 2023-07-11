@@ -2,6 +2,7 @@
 * 3454 Howard Road, Murfreesboro, TN 37127 + home: 832.543.3281 + vhsjwp01@gmail.com
   * The latest version of this document can be found here: http://
 ---
+
 # Experience:
 * Infrastructure Architecture and Design: 26 years
 * Compute Architecture and Design: 22 years
@@ -21,6 +22,7 @@
   * Unix / Linux - 21 years
   * Mac OS X - 11 years
 ---
+
 # Employment:
 ## 2014 - 2017: Ingram Content Group, LaVergne, TN
 ### Title: Senior Systems Engineer
