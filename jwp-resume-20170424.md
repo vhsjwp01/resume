@@ -43,7 +43,7 @@
 
 ## 2011 - 2014: METECS, Houston, TX (via Johnson Space Center, NASA)
 ### Title: Software Simulation Engineer
-*_as Corporate IT solutions architect:_*
+_as Corporate IT solutions architect:_
 * Network Architecture and Design
   * Charged with establishing a corporate style infrastructure for the company from scratch.
   * Deployed a scalable virtualized infrastructure environment leveraging VMware ESXi and high speed NAS.
@@ -128,16 +128,16 @@ _as NASA systems integrater:_
 ---
 # Education:
 ## 1993 - 1996: The University of Alabama at Birmingham
-* Degree: Master of Science in Biomedical Engineering, May 1996
-* Area of Research: Finite Element Biomechanics
-  * Thesis Title: “Parametric Finite Element Studies of the Human Pelvis: The Influence of Load Magnitude and Duration on Pelvic Tolerance During Side Impact”
+* __Degree:__ Master of Science in Biomedical Engineering, May 1996
+* __Area of Research:__ Finite Element Biomechanics
+  * __Thesis Title:__ "Parametric Finite Element Studies of the Human Pelvis: The Influence of Load Magnitude and Duration on Pelvic Tolerance During Side Impact"
     * Constructed a clear acrylic phantom with tubes for Xray contrast agents. Used the phantom to scan a cadaveric hemipelvis specimen. Created software to generate 3D geometry from CT image source files.
     * Built a 3D mesh of a hemipelvis and modeled side impact crash impulse scenarios to determine the onset and type of fracture. This information was used to identify mitigating boundary conditions for the purpose of improving the crash survivability of all cars manufactured today.
 
 ## 1987 - 1992: Louisiana Tech University
-* Degree: Bachelor of Science in Biomedical Engineering, May 1992
-  * Degree Specialty: Mechanical Engineering
-  * Senior Design Project: A surgical stainless steel Kirschner wire driver
+* __Degree:__ Bachelor of Science in Biomedical Engineering, May 1992
+  * __Degree Specialty:__ Mechanical Engineering
+  * __Senior Design Project:__ A surgical stainless steel Kirschner wire driver
     * Designed and constructed a prototype Kirschner wire driver. Based on the concepts of a mechanical pencil, the device was capable of advancing a single Kwire about 35 mm per trigger pull. Device was constructed entirely of stainless steel, suitable for autoclaving.
 ---
 # Publications and references available upon request
