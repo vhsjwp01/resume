@@ -1,6 +1,6 @@
 # Jason W. Plummer
-## 3454 Howard Road, Murfreesboro, TN 37127 + home: 832.543.3281 + vhsjwp01@gmail.com
-#### The latest version of this document can be found here: http://
+* 3454 Howard Road, Murfreesboro, TN 37127 + home: 832.543.3281 + vhsjwp01@gmail.com
+##### The latest version of this document can be found here: http://
 
 # Experience:
 * Infrastructure Architecture and Design: 26 years
@@ -9,43 +9,42 @@
 * Product Development: 17 years
 
 # Employment:
-## 2014 - 2017: Ingram Content Group, LaVergne, TN
-### Title: Senior Systems Engineer
-* IT Research and Development
-** Charged with maintaining awareness and performing assessment of emerging techonologies that can enhance the corporate portfolio with respect to efficiency and revenue stream.
-** Created shell based middleware to aid in converting from MainFrame COBOL to COBOL-IT on Linux.
-** Created continuous integration middleware to enable the development and deployment of docker containers to runtime hosts using Atlassian Stash and Bamboo.
-** Developed Puppet modules to aid in customizable deployment of dockerized services.
-** Assisted in the design and deployment of a 67 node Elasticsearch-Logstash-Kibana based OS and application log aggregation cluster.
-* IT Architecture and Engineering
-** Champion for the integration of continuous integration and continuous delivery with software development efforts.  Business owner of Atlassian Stash and Bamboo.
-** Champion for the integration of docker for both infrastructure tooling and business application development.
-* Software Development Best Practices
-** Evangelical proponent of unit testing, life cycle management, continuous feature deployment, and continous improvement.
-** Work with software development teams to improve their diagnostic capabilities in an effort to make them more self reliant.
-** Work across software development teams and IT support teams in an effort to give software developers a more self service approach to application deployment without sacrificing security or provisioning standardization constraints.
-* Mentoring and Leadership
-** Provide eduction on source code management best practices, containerization using docker, and continous integration services to new hires and new software development teams.
-** Provide technical writing education to junior engineers.
-** Provide IT architectural guidance to IT support and software development teams.
+* 2014 - 2017: Ingram Content Group, LaVergne, TN
+  * Title: Senior Systems Engineer
+    * IT Research and Development
+      * Charged with maintaining awareness and performing assessment of emerging techonologies that can enhance the corporate portfolio with respect to efficiency and revenue stream.
+      * Created shell based middleware to aid in converting from MainFrame COBOL to COBOL-IT on Linux.
+      * Created continuous integration middleware to enable the development and deployment of docker containers to runtime hosts using Atlassian Stash and Bamboo.
+      * Developed Puppet modules to aid in customizable deployment of dockerized services.
+      * Assisted in the design and deployment of a 67 node Elasticsearch-Logstash-Kibana based OS and application log aggregation cluster.
+    * IT Architecture and Engineering
+      * Champion for the integration of continuous integration and continuous delivery with software development efforts.  Business owner of Atlassian Stash and Bamboo.
+      * Champion for the integration of docker for both infrastructure tooling and business application development.
+    * Software Development Best Practices
+      * Evangelical proponent of unit testing, life cycle management, continuous feature deployment, and continous improvement.
+      * Work with software development teams to improve their diagnostic capabilities in an effort to make them more self reliant.
+      * Work across software development teams and IT support teams in an effort to give software developers a more self service approach to application deployment without sacrificing security or provisioning standardization constraints.
+    * Mentoring and Leadership
+      * Provide eduction on source code management best practices, containerization using docker, and continous integration services to new hires and new software development teams.
+      * Provide technical writing education to junior engineers.
+      * Provide IT architectural guidance to IT support and software development teams.
 
-## 2011 - 2014: METECS, Houston, TX (via Johnson Space Center, NASA)
-### Title: Software Simulation Engineer
-_as Corporate IT solutions architect:_
-* Network Architecture and Design
-** Charged with establishing a corporate style infrastructure for the company from scratch.
-** Deployed a scalable virtualized infrastructure environment leveraging VMware ESXi and high speed NAS.
-** Deployed the following network services: DNS, DHCP, LDAP, NTP, HTTP/HTTPS, VPN, NFS, CIFS, PXE, Kickstart.
-** Implemented automated vulnerability scanning using OpenVAS virtual appliances.
-* Workflow Optimization
-** Implemented a cryptographically secure storage system for the Windows platform using SAMBA and an open source project called BoxCryptor.
-** Implemented a PBX intercom system using FreeSWITCH and off the shelf SIP phones.
-** Worked closely in a team effort to implement an open source project management tool called Trac. Created a PERL CGI script enabling authenticated employees to create their own Trac project, along with any LDAP groups and mailman distribution lists via an internal web resource.
-** Created a web based self service tool for company employees to create and manage their own VPN access SSL certificates.
-** Wrote a script to generate RSS and ATOM feed links from the company's internal mailman based email list server.
-* Product Development
-** Fabricated hardware and developed software for a construction vehicle simulation rig. Became familiar with cutting, mounting, and assembling 8020 bar stock and its associated fittings.
-** Became familiar with the Unity3D game development software package. Wrote a client side program in C++ that read in JSON formatted telemetry from a network based Logitech joystick via TCP/IP. This C++ code was compiled as a Windows DLL using Visual Studio Express, which was then integrated as a plugin into Unity3D. Wrote a Unity C# script to call functions in the DLL to harvest data from the remote joystick.
+* 2011 - 2014: METECS, Houston, TX (via Johnson Space Center, NASA)
+  * Title: Software Simulation Engineer<br>_as Corporate IT solutions architect:_
+    * Network Architecture and Design
+      * Charged with establishing a corporate style infrastructure for the company from scratch.
+      * Deployed a scalable virtualized infrastructure environment leveraging VMware ESXi and high speed NAS.
+      * Deployed the following network services: DNS, DHCP, LDAP, NTP, HTTP/HTTPS, VPN, NFS, CIFS, PXE, Kickstart.
+      * Implemented automated vulnerability scanning using OpenVAS virtual appliances.
+    * Workflow Optimization
+      * Implemented a cryptographically secure storage system for the Windows platform using SAMBA and an open source project called BoxCryptor.
+      * Implemented a PBX intercom system using FreeSWITCH and off the shelf SIP phones.
+      * Worked closely in a team effort to implement an open source project management tool called Trac. Created a PERL CGI script enabling authenticated employees to create their own Trac project, along with any LDAP groups and mailman distribution lists via an internal web resource.
+      * Created a web based self service tool for company employees to create and manage their own VPN access SSL certificates.
+      * Wrote a script to generate RSS and ATOM feed links from the company's internal mailman based email list server.
+    * Product Development
+      * Fabricated hardware and developed software for a construction vehicle simulation rig. Became familiar with cutting, mounting, and assembling 8020 bar stock and its associated fittings.
+      * Became familiar with the Unity3D game development software package. Wrote a client side program in C++ that read in JSON formatted telemetry from a network based Logitech joystick via TCP/IP. This C++ code was compiled as a Windows DLL using Visual Studio Express, which was then integrated as a plugin into Unity3D. Wrote a Unity C# script to call functions in the DLL to harvest data from the remote joystick.
 
 _as NASA systems integrater:_
 * Network Architecture and Design
