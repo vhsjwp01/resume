@@ -2,13 +2,11 @@
 * 3454 Howard Road, Murfreesboro, TN 37127 + home: 832.543.3281 + vhsjwp01@gmail.com
   * The latest version of this document can be found here: http://
 ---
-
 # Experience:
-* Infrastructure Architecture and Design: 26 years
-* Compute Architecture and Design: 22 years
-* Workflow Optimization: 18 years
-* Product Development: 17 years
-
+* Infrastructure Architecture and Design: since 1991
+* Compute Architecture and Design: since 1995
+* Workflow Optimization: since 1999
+* Product Development: since 2000
 * Program Management Knowledge Base:
   * Stake holder identification and expectation management
   * Requirements elicitation, refinement and dissemination
@@ -19,10 +17,9 @@
   * Source code repository management (gitolite/ssh, subversion/apache, ClearCase, Bitbucket)
   * Containerization (Docker, Virtual Machines, LXE)
 * OS Knowledge Base:
-  * Unix / Linux - 21 years
-  * Mac OS X - 11 years
+  * Unix / Linux - since 1996
+  * Mac OS X - since 2006
 ---
-
 # Employment:
 ## 2014 - 2017: Ingram Content Group, LaVergne, TN
 ### Title: Senior Systems Engineer
