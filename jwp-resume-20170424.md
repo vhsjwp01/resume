@@ -43,7 +43,7 @@
 
 ## 2011 - 2014: METECS, Houston, TX (via Johnson Space Center, NASA)
 ### Title: Software Simulation Engineer
-_as Corporate IT solutions architect:_
+*_as Corporate IT solutions architect:_*
 * Network Architecture and Design
   * Charged with establishing a corporate style infrastructure for the company from scratch.
   * Deployed a scalable virtualized infrastructure environment leveraging VMware ESXi and high speed NAS.
