@@ -118,7 +118,7 @@ _as NASA systems integrater:_
   * Trained in ITIL and Five Nines.
 
 ## 1996 - 2000: The University of Alabama at Birmingham, Biomedical Engineering Department
-### Title: Information Systems Specialist | / Research Scientist
+### Title: Information Systems Specialist / Research Scientist
 * Compute Architecture and Design
   * Managed a computation lab consisting of several Linux, Solaris, and SGI workstations.
   * Performed finite element biomechanics research.
