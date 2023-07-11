@@ -1,1 +1,1 @@
-jwp-resume-LATEST.txt
+jwp-resume-20170424.md
