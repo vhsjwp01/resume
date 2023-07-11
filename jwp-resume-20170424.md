@@ -37,7 +37,7 @@
   * Work with software development teams to improve their diagnostic capabilities in an effort to make them more self reliant.
   * Work across software development teams and IT support teams in an effort to give software developers a more self service approach to application deployment without sacrificing security or provisioning standardization constraints.
 * Mentoring and Leadership
-  * Provide eduction on source code management best practices, containerization using docker, and continous integration services to new hires and new software development teams.
+  * Provide education on source code management best practices, containerization using docker, and continous integration services to new hires and new software development teams.
   * Provide technical writing education to junior engineers.
   * Provide IT architectural guidance to IT support and software development teams.
 
