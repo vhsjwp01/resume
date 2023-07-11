@@ -11,7 +11,7 @@ Experience:
 + Product Development: 17 years
 
 Employment:
-2014 - present: VitalSource Technologies, Raleigh, NC
+2014 - 2017: Ingram Content Group, LaVergne, TN
 Title: Senior Systems Engineer
 
 IT Research and Development
