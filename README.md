@@ -1,1 +1,1 @@
-my resume in markdown
+jwp-resume-20170424.md
