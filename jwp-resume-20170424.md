@@ -17,7 +17,8 @@
   * Source code repository management (gitolite/ssh, subversion/apache, ClearCase, Bitbucket)
   * Containerization (Docker, Virtual Machines, LXE)
 * OS Knowledge Base:
-  * Unix / Linux - since 1996
+  * Unix - since 1991
+  * Linux - since 1996
   * Mac OS X - since 2006
 ---
 # Employment:
